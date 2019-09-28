@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26848806026",
+    "firebase_url": "https://runlockrodeo.firebaseio.com",
+    "project_id": "runlockrodeo",
+    "storage_bucket": "runlockrodeo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26848806026:android:e4a5d638278f4c81689973",
+        "android_client_info": {
+          "package_name": "com.runlockfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26848806026-6recatq1ug4mpvncn8flem4a0eakq8al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt6An-5ToR3CLkFKE-8oPFXyTJUlEe4X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26848806026-6recatq1ug4mpvncn8flem4a0eakq8al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
