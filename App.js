@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
 });*/
-
+import AppNavigator from './navigation/AppNavigator';
 import React, { useState, useEffect } from 'react';
 import { View, Text } from 'react-native';
 import auth from '@react-native-firebase/auth';
@@ -96,7 +96,7 @@ function App() {
     );
   }
   return (
-    <Main user={user}/>
+    <AppNavigator/>
   );
 }
 
